@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Uriah Sanchez. I'm a senior attending UNM completing a dual-degree in MIS and Economics planning to graduate in the fall. 
+- 👀 I’m interested in movies and computers. I also spend much of my time outside though as I grew up in Los Alamos, New Mexico. 
+- 🌱 I’m currently working on my CRUD App as my CAPSTONE project in Management Information Systems. I plan on working on a movie or travel app. 
+- 💞️ I’m looking to collaborate on anything you are working on! I am always trying to learn knew skills and so I'm up for anything!
+- 📫 You can reach me at my school email at sanchezu@unm.edu
